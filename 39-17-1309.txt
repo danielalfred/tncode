@@ -80,12 +80,25 @@ e.  Subsections (b) and (c) do not apply to the following persons:
     7.  Any registered security guard/officer who meets the requirements of
         title 62, chapter 35, and who is discharging the officer's official
         duties;
-    8.  A.  Persons possessing a handgun, who are authorized to carry the
-            handgun pursuant to § 39-17-1351, while within or on a public park,
-            natural area, historic park, nature trail, campground, forest,
-            greenway, waterway, or other similar public place;
-        B.  Subdivision (e)(8)(A) shall not apply if the enhanced handgun carry
+    8.  A.  Persons possessing or carrying a handgun, who are authorized to
+            carry the handgun pursuant to § 39-17-1351, while in any public
+            school building or bus, on any public school campus, grounds,
+            recreation area, athletic field, or any other property owned,
+            operated, or while in use by any public board of education, school,
+            college, or university board of trustees, regents, or directors for
+            the administration of any public educational institution.
+        B.  Subdivision (e)(8)(A) does not apply if the enhanced handgun carry
             permit holder:
+            i.  Is a student at a public or private pre-kindergarten through
+                grade  twelve (pre-K-12) school;
+           ii.  Is an employee of the public school, college, or university
+                board of trustees, regents, or directors for the administration
+                of any public educational institution at the following times and
+                in the following locations:
+                a.  In meetings regarding disciplinary matters;
+                b.  In meetings regarding tenure issues; and
+                c.  A hospital, or an office where medical or mental health
+                    services are the primary services provided.
             i.  Possessed a handgun on property described in subdivision
                 (e)(8)(A) that is owned or operated by a board of education,
                 school, college, or university board of trustees, regents, or
@@ -126,111 +139,17 @@ e.  Subsections (b) and (c) do not apply to the following persons:
             private school or institution's policy; and
         C.  When the person is otherwise in compliance with the policy adopted
             by the private school or institution;
-   10.  Persons carrying a handgun pursuant to § 49-6-809, § 49-6-815, or §
-        49-6-816; provided, that this subdivision (e)(10) shall apply only
-        within and on the grounds of the school for which the person is
-        authorized;
-   11.  A.  Employees authorized to carry a handgun pursuant to § 39-17-1351 on
-            property owned, operated, or controlled by the public institution of
-            higher education at which the employee is employed;
-        B.  i.  Any authorized employee who elects to carry a handgun pursuant
-                to this subdivision (e)(11) shall provide written notification
-                to the law enforcement agency or agencies with jurisdiction over
-                the property owned, operated, or controlled by the public
-                institution of higher education that employs the employee;
-           ii.  The employee's name and any other information that might
-                identify the employee as a person who has elected to carry a
-                handgun pursuant to this subdivision (e)(11) shall be
-                confidential, not open for public inspection, and shall not be
-                disclosed by any law enforcement agency with which an employee
-                registers; except that the employee's name and other information
-                may be disclosed to an administrative officer of the institution
-                who is responsible for school facility security; provided,
-                however, that the administrative officer is not the employee's
-                immediate supervisor or a supervisor responsible for evaluation
-                of the employee. An administrative officer to whom such
-                information is disclosed shall not disclose the information to
-                another person. Identifying information about the employee
-                collected pursuant to this subdivision (e)(11) shall not be
-                disclosed to any person or entity other than another law
-                enforcement agency and only for law enforcement purposes; and
-          iii.  Law enforcement agencies are authorized to develop and
-                implement:
-                a.  Policies and procedures designed to implement the
-                    notification and confidentiality requirements of this
-                    subdivision (e)(11)(B); and
-                b.  A voluntary course or courses of special or supplemental
-                    firearm training to be offered to the employees electing to
-                    carry a handgun pursuant to this subdivision (e)(11).
-                c.  Firearm safety shall be a component of any firearm course;
-        C.  Unless carrying a handgun is a requirement of the employee's job
-            description, the carrying of a handgun pursuant to this subdivision
-            (e)(11) is a personal choice of the employee and not a requirement
-            of the employer. Consequently, an employee who carries a handgun on
-            property owned, operated, or controlled by the public institution of
-            higher education at which the employee is employed is not:
-            i.  Acting in the course of or scope of their employment when
-                carrying or using the handgun;
-           ii.  Entitled to workers' compensation benefits under §
-                9-8-307(a)(1)(K) for injuries arising from the carrying or use
-                of a handgun;
-          iii.  Immune from personal liability with respect to use or carrying
-                of a handgun under § 9-8-307(h);
-           iv.  Permitted to carry a handgun openly, or in any other manner in
-                which the handgun is visible to ordinary observation; or
-            v.  Permitted to carry a handgun at the following times and at the
-                following locations:
-                a.  Stadiums, gymnasiums, and auditoriums when school-sponsored
-                    events are in progress;
-                b.  In meetings regarding disciplinary matters;
-                c.  In meetings regarding tenure issues;
-                d.  A hospital, or an office where medical or mental health
-                    services are the primary services provided; and
-                e.  Any location where a provision of state or federal law,
-                    except the posting provisions of § 39-17-1359, prohibits the
-                    carrying of a handgun on that property;
-        D.  Notwithstanding any other law to the contrary, a public institution
-            of higher education shall be absolutely immune from claims for
-            monetary damages arising solely from or related to an employee's use
-            of, or failure to use, a handgun; provided the employee is employed
-            by the institution against whom the claim is filed and the employee
-            elects to carry the handgun pursuant to this subdivision (e)(11).
-            Nothing in this section shall expand the existing conditions under
-            which sovereign immunity is waived pursuant to § 9-8-307; and
-        E.  As used in subdivisions (e)(11)-(13):
-            i.  “Employee” includes all faculty, staff, and other persons who
-                are employed on a full-time basis by a public institution of
-                higher education; and
-           ii.  “Employee” does not include a person who is enrolled as a
-                student at a public institution of higher education, regardless
-                of whether the person is also an employee;
-   12.  A.  Any employee of the University of Tennessee institute of agriculture
+   10.  A.  Any employee of the University of Tennessee institute of agriculture
             or a college or department of agriculture at a campus in the
             University of Tennessee system when in the discharge of the
             employee's official duties and with prior authorization from the
             chancellor of the University of Tennessee institute of agriculture;
             or
-        B.  Any employee of the University of Tennessee institute of agriculture
-            or a college or department of agriculture at a campus in the
-            University of Tennessee system, and any member of the employee's
-            household, living in a residence owned, used, or operated by the
-            University of Tennessee, if the employee has prior authorization
-            from the chancellor of the University of Tennessee institute of
-            agriculture and the employee and household members are permitted to
-            possess firearms in their residence under Tennessee and federal law;
-            and
-   13.  A.  Any employee of the university's college or department of
+   11.  A.  Any employee of the university's college or department of
             agriculture when in the discharge of the employee's official duties
             and with prior authorization from the president of a university in
             the board of regents system;
-        B.  Any employee of the university's college or department of
-            agriculture, and any member of the employee's household, living in a
-            residence owned, used, or operated by the university, if the
-            employee has prior authorization from the president of a university
-            in the board of regents system and the employee and household
-            members are permitted to possess firearms in their residence under
-            Tennessee and federal law; or
-        C.  Any employee, with prior authorization of the president of a
+        B.  Any employee, with prior authorization of the president of a
             university in the board of regents system, who is engaged in
             wildlife biology or ecology research and education for the purpose
             of capture or collection of specimens.
